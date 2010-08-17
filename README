@@ -1,0 +1,10 @@
+This is very simple library for Wiring/Arduino interfacing 74HC595 class chip.
+The chip is connected to 3 pins of Arduino.  These are:
+ * clockPin -- which is connected to pin 11 (SRCLK) of the chip
+ * dataPin  -- which is connected to pin 14 (SER) of the chip
+ * latchPin -- which is connected to pin 12 (RCLK) of the chip
+
+The interface cant talk only to one HC595 chip.  Remember, this is
+first, quick, version of the library.
+
+-- Radek

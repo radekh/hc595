@@ -1,0 +1,13 @@
+# Syntax Coloring Map for HC595
+
+# Datatypes (KEYWORD1)
+HC595	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+hc595	KEYWORD2
+writeByte	KEYWORD2
+version	KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
